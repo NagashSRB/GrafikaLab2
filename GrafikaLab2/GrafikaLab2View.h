@@ -15,6 +15,8 @@ protected: // create from serialization only
 public:
 	CGrafikaLab2Doc* GetDocument() const;
 
+
+
 // Operations
 public:
 

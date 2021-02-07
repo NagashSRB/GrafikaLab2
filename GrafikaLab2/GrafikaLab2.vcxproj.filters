@@ -72,6 +72,12 @@
     <None Include="res\GrafikaLab2.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="res\cactus_part.emf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cactus_part_light.emf">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\GrafikaLab2Doc.ico">
